@@ -79,3 +79,10 @@ button:hover {
 .radio-group label {
     font-weight: normal;
 }
+#successMessage {
+    color: green;
+    font-size: 1em;
+    text-align: center;
+    margin-top: 15px;
+    display: none; /* hidden by default until form is valid */
+}
